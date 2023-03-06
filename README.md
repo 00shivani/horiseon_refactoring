@@ -19,5 +19,5 @@ The existing code for the Horiseon webpage was improved in several ways, includi
 
 ![horiseon](https://user-images.githubusercontent.com/126500106/222991383-50a2ea09-94b5-4099-a322-0967f8cb4e32.png)
 
-### Deployed Application URL: https://github.com/00shivani/horiseon_refactoring.git 
+### Deployed Application URL: https://00shivani.github.io/horiseon_refactoring/ 
 
